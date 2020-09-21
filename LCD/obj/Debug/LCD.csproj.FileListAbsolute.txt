@@ -1,0 +1,30 @@
+C:\Programs\LCD\LCD\LCD\bin\Debug\LCD.exe.config
+C:\Programs\LCD\LCD\LCD\bin\Debug\LCD.exe
+C:\Programs\LCD\LCD\LCD\bin\Debug\LCD.pdb
+C:\Programs\LCD\LCD\LCD\obj\Debug\LCD.csprojAssemblyReference.cache
+C:\Programs\LCD\LCD\LCD\obj\Debug\LCD.LCD.resources
+C:\Programs\LCD\LCD\LCD\obj\Debug\LCD.Properties.Resources.resources
+C:\Programs\LCD\LCD\LCD\obj\Debug\LCD.csproj.GenerateResource.cache
+C:\Programs\LCD\LCD\LCD\obj\Debug\LCD.csproj.CoreCompileInputs.cache
+C:\Programs\LCD\LCD\LCD\obj\Debug\LCD.exe
+C:\Programs\LCD\LCD\LCD\obj\Debug\LCD.pdb
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\bin\Debug\LCD.exe.config
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\bin\Debug\LCD.exe
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\bin\Debug\LCD.pdb
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\obj\Debug\LCD.csprojAssemblyReference.cache
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\obj\Debug\LCD.LCD.resources
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\obj\Debug\LCD.Properties.Resources.resources
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\obj\Debug\LCD.csproj.GenerateResource.cache
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\obj\Debug\LCD.csproj.CoreCompileInputs.cache
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\obj\Debug\LCD.exe
+E:\Programs\My programs\Windows forms C#\LCD\LCD\LCD\obj\Debug\LCD.pdb
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\bin\Debug\LCD.exe.config
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\bin\Debug\LCD.exe
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\bin\Debug\LCD.pdb
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\obj\Debug\LCD.csprojAssemblyReference.cache
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\obj\Debug\LCD.LCD.resources
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\obj\Debug\LCD.Properties.Resources.resources
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\obj\Debug\LCD.csproj.GenerateResource.cache
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\obj\Debug\LCD.csproj.CoreCompileInputs.cache
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\obj\Debug\LCD.exe
+E:\Programs\My programs\Windows forms C#\Done\LCD\LCD\LCD\obj\Debug\LCD.pdb
